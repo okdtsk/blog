@@ -1,0 +1,4 @@
+baseurl = "http://okdtsk.info/"
+title = "okdtsk"
+languageCode = "ja-jp"
+theme = "okdtsk"

@@ -1,0 +1,12 @@
+name = "okdtsk"
+license = "MIT"
+licenselink = "https://github.com/okdtsk/blog/blob/master/LICENSE.md"
+description = "Hugo theme for okdtsk website"
+homepage = "http://okdtsk.com/"
+tags = ["personal", "blog"]
+features = [""]
+min_version = 0.18
+
+[author]
+  name = "Tasuku OKUDA"
+  homepage = "http://okdtsk.info"
